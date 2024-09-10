@@ -52,7 +52,7 @@ This repository contains a comprehensive collection of Accenture  interview ques
 <a href="https://t.me/debugwithshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debug with shuhbam" height="30" width="40" /></a>
 <a href="https://www.instagram.com/debugwithshubham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debugwithshubham" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DebugWithShubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debugwithshubham" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/debugwithshubham/" target="blank"><img align="center" src="M1.91 0h22.363a1.91 1.91 0 011.909 1.91v22.363a1.91 1.91 0 01-1.91 1.909H1.91A1.91 1.91 0 010 24.272V1.91A1.91 1.91 0 011.91 0zm1.908 22.364h3.818V9.818H3.818zM8.182 5.727a2.455 2.455 0 10-4.91 0 2.455 2.455 0 004.91 0zm2.182 4.091v12.546h3.818v-6.077c0-2.037.75-3.332 2.553-3.332 1.3 0 1.81 1.201 1.81 3.332v6.077h3.819v-6.93c0-3.74-.895-5.78-4.667-5.78-1.967 0-3.277.921-3.788 1.946V9.818z" alt="debug with shubham" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/debugwithshubham/" target="blank"><img align="center" href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/> alt="debug with shubham" height="30" width="40" /></a>
 
 
 
