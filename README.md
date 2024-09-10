@@ -49,7 +49,7 @@ This repository contains a comprehensive collection of Accenture  interview ques
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/debugwithshubham" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" alt="debug with shuhbam" height="30" width="40" /></a>
+<a href="https://t.me/debugwithshubham" target="blank"><img align="center" src="https://github.com/senid231/kde_4k_telegram_tray_icons/blob/master/telegram_minimal.png" alt="debug with shuhbam" height="30" width="40" /></a>
 <a href="https://www.instagram.com/debugwithshubham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debugwithshubham" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DebugWithShubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debugwithshubham" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/debugwithshubham/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="debug with shubham | LinkedIn" width="21px"/></a>
