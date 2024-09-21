@@ -11,7 +11,27 @@ Example 1:
 inputl: "He ll o W or Id" input2 : "Hello World"
 Output : Even4
 
-********************* Solution - 1 using Count ******************
+********************* Solution - 1 Brute Force ******************
+
+
+
+s1 ="He ll o W or id"
+s2 = "Hello World"
+count_s1= 0
+count_s2 = 0
+for i in s1:
+    if i == " ":
+        count_s1 += 1
+for j in s2:
+    if j  == " ":
+        count_s2 += 1
+diff = abs(count_s1 - count_s2)
+if diff %2 == 0:
+    print(f"Even{diff}")
+else:
+    print(f"Odd{diff}")
+
+********************* Solution - 2 using Count ******************
 
 def whitespace_difference(A, B):
     # Count whitespaces in both strings
@@ -32,7 +52,7 @@ A = "He ll o W or Id"
 B = "Hello World"
 print(whitespace_difference(A, B))  # Output: "Even4"
 
-********************* Solution - 2 using RE ******************
+********************* Solution - 3 using RE ******************
 
 import re
 
@@ -56,7 +76,7 @@ B = "Hello World"
 print(whitespace_difference_regex(A, B))  # Output: "Even4"
 
 
-********************* Solution - 3 using Collections ******************
+********************* Solution - 4 using Collections ******************
 
 from collections import Counter
 
@@ -82,8 +102,5 @@ def whitespace_difference_counter(A, B):
 A = "He ll o W or Id"
 B = "Hello World"
 print(whitespace_difference_counter(A, B))  # Output: "Even4"
-
-
-
 
 
