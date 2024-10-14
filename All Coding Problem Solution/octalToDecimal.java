@@ -3,7 +3,7 @@ Program for Octal to Decimal Conversion
 // Java program to convert octal to decimal 
 import java.io.*; 
 
-class GFG { 
+class debug { 
 
 	// Function to convert octal to decimal 
 	static int octalToDecimal(int n) 
