@@ -21,20 +21,14 @@ Output= 7290
 
 
 
-#include <iostream>
-#include <cmath>  
-using namespace std;
-int reboundHeight(double H, double V, double Vn, int N) {
-    double e = V / Vn;
-    double en = pow(e, 2 * N);
-    double reboundHeight = H * en;
-    return (int) reboundHeight;
-}
-int main() {
-    double H = 10;  
-    double V = 15;  
-    double Vn = 5;  
-    int N = 3;     
-    cout << reboundHeight(H, V, Vn, N) << endl;  
-    return 0;
-}
+
+def rebound_height(H, V, Vn,N):
+    e = V / Vn
+    en = e ** (2*N)
+    rebound_height = H * en
+    return int(rebound_height)
+H = 10  
+V = 15  
+Vn = 5 
+N = 3
+print(rebound_height(H, V, Vn,N))
